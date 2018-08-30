@@ -9,7 +9,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * [Test Data](Resources/alphabtical_testing.xlsx) - Use this while developing your scripts.
 
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
+* Stock Data - Run your scripts on this data to generate the final homework report.
 
 ### Stock market analyst
 
