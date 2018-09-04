@@ -1,7 +1,8 @@
 # VBA-of-Wall-Street
 
 ## Solutions:
-### VBA Script: [Wallstreet_Analysis - Hard.bas](Wallstreet_Analysis - Hard.bas)
+### VBA Script: 
+* [Wallstreet_Analysis - Hard.bas](Wallstreet_Analysis - Hard.bas)
 ### Screenshots: 
 * [Wallstreet Analysis - Hard Screenshot - 2014.png](Wallstreet Analysis - Hard Screenshot - 2014.PNG)
 * [Wallstreet Analysis - Hard Screenshot - 2015.png](Wallstreet Analysis - Hard Screenshot - 2015.PNG)
