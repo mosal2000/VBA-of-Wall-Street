@@ -16,13 +16,13 @@
 
 ## Background
 
-This project use VBA scripting to analyze real stock market data.
+This project uses VBA scripting to analyze real stock market data.
 
 ### Files
 
 - This [Test Data](Resources/alphabtical_testing.xlsx) is used in developing the scripts.
 
-- Stock Data is used to generate the final homework report.
+- Stock Data is used to generate the final report.
 
 ### Stock market analyst
 
@@ -64,4 +64,4 @@ This project use VBA scripting to analyze real stock market data.
 
 ![hard_solution](Images/hard_solution.png)
 
-- The `alphabetical_testing.xlsx` is used while developing your code. This dataset is smaller which allow to test faster.
+- The `alphabetical_testing.xlsx` is used while developing your code. This dataset is smaller which allows faster test.
